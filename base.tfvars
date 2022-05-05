@@ -11,4 +11,4 @@ inst_type = "t2.small"
 
 key_name = "gac_test"
 
-environment = "GAC_test"
+environment = "Github_Actions"
